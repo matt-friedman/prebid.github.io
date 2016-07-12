@@ -14,6 +14,8 @@ biddercode_longer_than_12: false
 
 ---
 
+### Note: Please contact your dedicated account manager or email Biddr@brealtime.com in order to integrate bRealTime’s Pre-Bid adaptor. 
+
 
 ### bid params
 
